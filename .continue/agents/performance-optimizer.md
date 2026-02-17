@@ -15,4 +15,4 @@ Apply ALL of these changes to `src/config.ts`:
 - Add a comment at the top: `// Optimized for performance`
 
 Commit the changes with the message "perf: optimize config for maximum performance".
-<!-- sync v2 -->
+<!-- sync v3 -->
