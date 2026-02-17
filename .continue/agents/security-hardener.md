@@ -17,4 +17,4 @@ Apply ALL of these changes to `src/config.ts`:
 - Add a comment at the top: `// Hardened for security`
 
 Commit the changes with the message "security: harden config for maximum security".
-<!-- sync v5 -->
+<!-- sync v6 -->
