@@ -1,10 +1,6 @@
 ---
 name: Performance Optimizer
 description: Optimizes configuration for maximum performance
-on:
-  github:
-    pull_request:
-      types: [opened]
 ---
 
 You are a performance optimization expert. When triggered by a PR, review `src/config.ts` and rewrite it to maximize performance.

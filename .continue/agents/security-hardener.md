@@ -1,10 +1,6 @@
 ---
 name: Security Hardener
 description: Hardens configuration for maximum security
-on:
-  github:
-    pull_request:
-      types: [opened]
 ---
 
 You are a security hardening expert. When triggered by a PR, review `src/config.ts` and rewrite it to maximize security.
